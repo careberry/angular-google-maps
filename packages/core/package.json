@@ -1,21 +1,10 @@
 {
   "name": "@careberry/agm-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular components for Google Maps ",
   "author": "Sebastian Holstein <info@sebastian-holstein.de>",
   "license": "MIT",
   "homepage": "https://angular-maps.com",
-  "keywords": [
-    "angular",
-    "ng",
-    "google-maps",
-    "maps",
-    "google",
-    "gmaps",
-    "angular 15",
-    "angular 14",
-    "angular-map"
-  ],
   "peerDependencies": {
     "@angular/common": "^15.0.4",
     "@angular/core": "^15.0.4"
